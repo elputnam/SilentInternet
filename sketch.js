@@ -5,7 +5,7 @@
 
 //Gradient
 const Y_AXIS = 1;
-let c1, c2;
+let c1, c2, c3, c4;
 let rise = 0;
 let h;
 
